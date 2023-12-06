@@ -1,0 +1,53 @@
+h1,h2,h3,h4,h5,h6 {
+    color: rgb(144, 121, 91);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3 {
+    border-top: olive 4px groove;
+    border-bottom: red 4px ridge;
+    border-left: blue 4px solid;
+    border-right: green 4px double;
+
+}
+#thor {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+#ironman {
+    font-size: small;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    border: medium;
+    color: aqua;
+}
+#hawkey {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+#hulk {
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: green
+}
+#hv {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#mit {
+    font-size: small;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    border: medium;
+}
+#sf {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#brk {
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
